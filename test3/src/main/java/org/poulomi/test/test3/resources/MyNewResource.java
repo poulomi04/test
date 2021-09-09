@@ -33,6 +33,7 @@ public class MyNewResource {
 		 */
 		//return sc.getAllModels();
 		//return mmList;
+		System.out.println("Added from github");
 		
 		List<MyModel>  modelList=sc.getAllModels();
 		MyModels myModels=new MyModels();
