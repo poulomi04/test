@@ -1,7 +1,7 @@
 package lambdaTest;
 
 public class People {
-
+//to test branch rules in github
 	String id;
 	String firstName;
 	String lastName;
